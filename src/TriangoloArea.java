@@ -54,7 +54,7 @@ public String toString() {
 * <p>CLASSE main</p>
 */
 public static void main(String[] args) {
-	TriangoloArea a=new TriangoloArea(4,3);
+	TriangoloArea a=new TriangoloArea(4,4);
 	System.out.println(a.CalcolaArea());
 	System.out.println(a);
 }
